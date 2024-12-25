@@ -58,17 +58,17 @@
 ### 📱 Mobile Apps
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=PV-Chat&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=chat-application-backend&theme=radical" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=Kodukku&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=MyPortfolio&theme=radical" />
   </a>
 </div>
 
 ### 🌐 Web Applications
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=PV-Chat-Web&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=chat-application-backend&theme=radical" />
   </a>
 </div>
 
