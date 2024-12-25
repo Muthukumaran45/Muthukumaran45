@@ -42,7 +42,7 @@
 </div>
 
 <!-- Animated Projects Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="50" /> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
   <!-- Project Animation -->
@@ -109,8 +109,7 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Muthukumaran45&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
   
-  <!-- Animated Footer Line -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+ 
 </div>
 
 ---
