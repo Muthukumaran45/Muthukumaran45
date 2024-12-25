@@ -38,12 +38,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50" alt="Redux" />
   <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="50" alt="Material UI" />
 
-  <!-- Animated Tech Icons -->
-  <div style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-  </div>
+
 </div>
 
 <!-- Animated Projects Section -->
@@ -60,15 +55,16 @@
   <a href="https://github.com/Muthukumaran45/chat-application-backend.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=chat-application-backend&theme=radical" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=MyPortfolio&theme=radical" />
-  </a>
+ 
 </div>
 
 ### 🌐 Web Applications
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/Muthukumaran45/chat-application-backend.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=chat-application-backend&theme=radical" />
+  </a>
+   <a href="https://github.com/Muthukumaran45/MyPortfolio.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=MyPortfolio&theme=radical" />
   </a>
 </div>
 
@@ -90,16 +86,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muthukumaran45&theme=redical&hide_border=true" width="100%"/>
 </div>
 
-<!-- Animated Skills Section -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Skills" width="50">
-  <h3>Skills & Tools</h3>
-  <!-- Animated Skill Bars -->
-  <img src="https://progress-bar.dev/90?title=React%20Native" width="300">
-  <img src="https://progress-bar.dev/85?title=JavaScript" width="300">
-  <img src="https://progress-bar.dev/80?title=React.js" width="300">
-  <img src="https://progress-bar.dev/75?title=Node.js" width="300">
-</div>
+
 
 <!-- Animated Connect Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="50" /> Let's Connect
