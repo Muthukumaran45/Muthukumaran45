@@ -52,8 +52,8 @@
 
 ### 📱 Mobile Apps
 <div align="center">
-  <a href="https://github.com/Muthukumaran45/chat-application-backend.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=chat-application-backend&theme=radical" />
+  <a href="https://github.com/Muthukumaran45/HelpHub.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthukumaran45&repo=HelpHub&theme=radical" />
   </a>
  
 </div>
